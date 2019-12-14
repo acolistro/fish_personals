@@ -1,0 +1,14 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  background-image: url("https://images.pexels.com/photos/2397651/pexels-photo-2397651.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-size: cover;
+  /* background-image: image("./fish_bg.jpg"); */
+}
+
+.jumbotron {
+  background-color: rgba(255, 255, 255, 0.4);
+  margin-top: 3vh;
+  border-style: dashed;
+  text-align: center;
+  text-shadow: 3px 3px white;
+}
